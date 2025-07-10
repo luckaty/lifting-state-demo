@@ -6,7 +6,7 @@ A simple React project that demonstrates **lifting state up** between components
 ## 📸 Screenshot
 
 ![Screenshot of lifting state demo](./screenshot.png)  
-*(Make sure you save your screenshot as `screenshot.png` in the project root.)*
+
 
 ## 🛠 Features
 
