@@ -5,7 +5,7 @@ A simple React project that demonstrates **lifting state up** between components
 
 ## 📸 Screenshot
 
-![Screenshot of lifting state demo](./screenshot.png)  
+![Screenshot of lifting state demo](./Screenshot.png)  
 
 
 ## 🛠 Features
